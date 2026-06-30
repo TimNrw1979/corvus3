@@ -107,4 +107,3 @@ Alle vier bei Patrick verortet. Klammer still → intensiv → intensiv → stil
 
 ## Korrekturhinweis für andere Projektdateien
 
-- `Planungsstand.md` und `_Anweisungen.md` führen „Antrag am Bootssteg auf Skerrin" — laut Autor fand der Antrag tatsächlich im Yachtclub auf dem Festland statt. Sollte in beiden Dateien korrigiert werden.

@@ -53,7 +53,7 @@ status: in-arbeit
 
 ### Hochzeit
 
-- Patrick und Matthew (der Antrag steht seit Band 1, Bootssteg auf Skerrin)
+- Patrick und Matthew (der Antrag steht seit Band 1, Yachtclub)
 - **Liam:** Nicht formaler Teil der Ehe, aber öffentlich präsent und unverzichtbar. Er steht nicht unter den Gästen, nicht auf der falschen Seite — irgendwo, den beide sehen können, wenn sie wollen.
 - **POV:** Liam (Tendenz, nicht final entschieden)
 - **Timing:** Nach Marres Fall — erster Moment ohne Bedrohung, ohne offenen Faden.

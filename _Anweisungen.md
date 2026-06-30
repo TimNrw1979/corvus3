@@ -55,7 +55,7 @@ Die Projektdateien sind die einzige autoritative Quelle für:
 
 ## Serienkontext
 
-- **Band 1 (*Stilles Feuer*):** Vollständig. Antrag am Bootssteg auf Skerrin. Liams Pakt etabliert.
+- **Band 1 (*Stilles Feuer*):** Vollständig. Antrag im Yachtclib. Liams Pakt etabliert.
 - **Band 2 (*Fester Grund*):** Vollständig. Marre eingekreist, nicht erledigt. Ronans Brief als offener Faden für Band 3. Caldermoor als Marres Suchrichtung etabliert.
 - **Band 3:** Dieser Band. Abschluss der Reihe.
 
