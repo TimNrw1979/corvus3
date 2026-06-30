@@ -30,7 +30,7 @@ Die Projektdateien sind die einzige autoritative Quelle für:
 |---|---|
 | [[Projekt]] | Überblick, Hauptstränge, Figurenliste |
 | [[Planungsstand]] | Gesicherte Entscheidungen der Eröffnungsplanung |
-| [[Kapitel-Übersicht]] | Strukturautorität — überschreibt alle anderen Dateien bei Widersprüchen |
+| [[Buch/Corvus 2 - Fester Grund/Kapitel-Übersicht]] | Strukturautorität — überschreibt alle anderen Dateien bei Widersprüchen |
 | [[Rahmenbedingungen]] | Stilprinzipien, Konventionen, editorische Arbeitsweise |
 | [[Kapitel-Struktur-Anweisungen]] | Verbindliche Vorlage für alle Kapitel |
 | [[Weltnotizen]] | Serienreferenz: Figuren, Orte, Unternehmen |

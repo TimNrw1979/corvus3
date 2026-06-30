@@ -66,7 +66,7 @@ Ersterzählung des Caldermoor-Vorfalls aus Patricks Sicht. Fragmentiert, selekti
 |---|---|
 | [[Projekt]] | Diese Datei |
 | [[Planungsstand]] | Gesicherte Entscheidungen der Eröffnungsplanung |
-| [[Kapitel-Übersicht]] | Alle Kapitel, Struktur, POVs — wird in nächster Sitzung erarbeitet |
+| [[Buch/Corvus 2 - Fester Grund/Kapitel-Übersicht]] | Alle Kapitel, Struktur, POVs — wird in nächster Sitzung erarbeitet |
 | [[Rahmenbedingungen]] | Stilprinzipien und Konventionen (aus Band 2 übernommen) |
 | [[Kapitel-Struktur-Anweisungen]] | Verbindliche Vorlage für alle Kapitel (aus Band 2 übernommen) |
 | [[Weltnotizen]] | Serienreferenz (aus Band 2 übernommen, ggf. ergänzt) |
