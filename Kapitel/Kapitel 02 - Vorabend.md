@@ -19,7 +19,7 @@ verknüpft:
 # Vorabend
 
 ::: {custom-style="Kapitelzitat"}
-ein kleines Gewicht, das niemand außer ihm sieht
+Ein kleines Gewicht, das niemand außer ihm sieht
 :::
 
 Die Terrasse liegt noch im Halbschatten, als Patrick die Tür zum Garten aufschiebt. Der Tisch ist gedeckt, aber niemand sitzt – Elara hat offenbar wieder darauf bestanden, dass draußen gegessen wird, solange das Wetter es zulässt, und niemand widerspricht ihr in solchen Dingen.
