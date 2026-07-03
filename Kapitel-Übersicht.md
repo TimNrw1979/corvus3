@@ -85,9 +85,17 @@ Zwei ineinandergreifende Antriebe, keiner davon Macht/Geld als Selbstzweck:
 
 **Konsequenz für den Showdown (Kap. 15–17):** Matthew, Patrick und Liam stehen am Ende vor einer echten moralischen Abwägung, nicht nur einer taktischen — saubere juristische Verurteilung (Marre bleibt am Leben, aber öffentlich erledigt) vs. Offenlegung seiner Identität gegenüber seinen eigenen Auftraggebern (liefert ihn seinen eigenen Leuten aus, mit unkontrollierbaren Konsequenzen). Passt zum stillen, nicht rachsüchtigen Ton des Bandes.
 
-**Konsequenz für Kap. 00:** Der banale Vormittag bekommt einen realen, gegenwärtigen Spannungsfaden — Marre wartet z. B. auf einen Kontakt/eine Bestätigung, dass er noch Zeit hat, bevor jemand aus seinem alten Netzwerk ungeduldig wird. Kein Grübeln über Verlorenes, sondern aktives Verwalten einer Bedrohung.
+**Konsequenz für Kap. 00:** Der banale Vormittag bekommt einen realen, gegenwärtigen Spannungsfaden — Marre wartet auf einen Kontakt/eine Bestätigung, dass er noch Zeit hat, bevor jemand aus seinem alten Netzwerk ungeduldig wird. Kein Grübeln über Verlorenes, sondern aktives Verwalten einer Bedrohung.
 
 ---
+
+## Geklärt: Kapitel 00 (Hohlraum) ausgearbeitet — Prosa fertig
+
+Marre-POV, Prolog. Ein banaler Vormittag in seiner neuen Wohnung wird zum Träger seiner eigentlichen Spannung: Er wartet seit elf Tagen auf ein Zeichen aus seinem alten Netzwerk, das bestätigt, dass er noch „lieferfähig" ist. Kein Grübeln, kein Rückblick auf Verlorenes — stattdessen aktives, analytisches Verwalten einer Bedrohung. Kapitel endet damit, dass er Brennan anruft, um die Caldermoor-Spur wieder aufzunehmen — konkreter Einstieg in Marres Suche, die den ganzen Akt I trägt. Ton bewusst kalt-kontrolliert, nicht defensiv oder resigniert (nach Korrektur einer ersten, zu passiven Fassung).
+
+## Geklärt: Kapitel 01 (Nachglühen) ausgearbeitet — Prosa fertig
+
+Matthew-POV, Akt I. Früher Morgen auf Ravenscroft, kein Ereignis — die Szene lebt von der Diskrepanz zwischen Matthews Kopf (weiß, dass Marre erledigt ist) und seinem Körper/Verhalten (prüft trotzdem die Terrassentür, ist um fünf Uhr wach). Vier Beats: Matthew allein im Haus; Matthew und Liam in der Küche, beide teilen dasselbe Misstrauen gegenüber der Stille („Ich glaube, dass es ruhig ist. Das ist nicht dasselbe."); Patrick kommt dazu, glaubt der Ruhe eher (oder will ihr glauben), dann stoßen Edmund und Elara dazu — beiläufiger, warmer Kommentar von Elara über das Zusammenleben, bricht den Ton kurz auf, bevor das Gespräch zu Marre zurückkehrt; Schlussbild wieder allein am Fenster, Rahmen zum Anfang. Liam gehört als vierte, stille Instanz der neuen Normalität mit dazu, ohne dass die Szene ihm gehört. Kapitelzitat aus Liams Zeile entnommen (Prinzip: Zitat immer wörtlich aus dem Kapitel, nie frei formuliert).
 
 ## Geklärt: Kapitel 02 (Vorabend) ausgearbeitet
 
@@ -101,38 +109,38 @@ Liam trägt Kap. „Zusage", „Bund" und den Epilog „Anker" final, nicht nur 
 
 ## Kapitelliste
 
-| Nr | Titel | Akt | POV | Kurzinhalt |
-|---|---|---|---|---|
-| 00 | Hohlraum | Prolog | Marre | Der Ausstieg ist ins Leere gelaufen. |
-| 01 | Nachglühen | Akt I | Matthew | Neue Normalität, noch ungewohnt. |
-| 02 | Vorabend | Akt I | Patrick | Gegenwart: Abendessen mit Matthew und Liam auf Ravenscroft, Patrick erkennt beiläufig ein Datum (Jahrestag), Liam bemerkt die minimale Verschiebung, ohne sie einzuordnen. Eingebettete 1. Caldermoor-Rückblende: der Abend zuvor, mit Ronan — atmosphärisch, letzter ungetrübter Blick auf ihn. |
-| 03 | Abstand | Akt I | Liam | Liam versucht, die minimale Verschiebung bei Patrick aus Kap. 02 einzuordnen — ohne zu wissen, was er gesehen hat. |
-| 04 | Archiv | Akt I | Marre | Suche nach Caldermoor beginnt konkret. |
-| 05 | Tagesform | Akt I | Matthew | Ein Riss in der Routine, noch nicht eingeordnet. |
-| 06 | Untiefe | Akt I | Patrick | Ronans Unterlagen, Hinweis auf unbekanntes Gespräch mit Vera. Übergang Akt II. |
-| 07 | Lücke | Akt II | Matthew | Jeffrey und Michael bauen die juristische Struktur. |
-| 08 | Vorstoß | Akt II | Patrick | Patrick sucht aktiv das Gespräch mit Vera. |
-| 09 | Nachlass | Akt II | Vera | Was sie über Ronans letzte Monate weiß. |
-| 10 | Spur | Akt II | Marre | Die Archiv-Suche führt auf Michael Reyes' Namen. |
-| 11 | Altlast | Akt II | Michael | Gewarnt von Jeffrey — seine Vergangenheit wird zur Gefahr. |
-| 12 | Riss | Akt II | Patrick | 1. eigenständige Caldermoor-Rückblende. Patrick und Matthew zusammen auf dem Gelände; die Entführer zielen gezielt auf Patrick (zu dem Zeitpunkt der erkennbare Name, Matthew noch nicht öffentlich bekannt) und drängen Matthew beiseite. Matthew kommt zu sich, Patrick ist fort — erster, privater Ausbruch des Dämons, nie erzählt. Kapitelende bei Patrick, isoliert, fragmentierte Wahrnehmung. |
-| 13 | Wache | Akt II | Liam | Steigende Anspannung, registriert Matthews Zustand. |
-| 14 | Einschlag | Akt II | Patrick | 2. eigenständige Caldermoor-Rückblende, dichter. Patrick in Gefangenschaft, Angst und erste Verletzung; Michael taucht als unklare Randfigur auf (Seitenwechsel). Matthew bricht im vollen Modus durch, mit Zeugen — Patricks fragmentierte Wahrnehmung der Rettung. Kein sauberer Abschluss, Zustand danach leitet direkt in Kap. 15 über. Matthews genaues Handeln an den Entführern bewusst nicht ausbuchstabiert. |
-| 15 | Überschreitung | Akt II | Matthew | Wendepunkt — Matthew geht bis zum Äußersten. |
-| 16 | Halt | Akt II | Liam | Liam hält ihn zurück. Patrick weiß es. Jeffrey schließt die Falle. |
-| 17 | Fall | Akt III | Marre | Marre fällt — still, juristisch, unausweichlich. |
-| 18 | Nachspiel | Akt III | Michael | Sein Anteil an Marres Fall — Abschluss seines eigenen Bogens. |
-| 19 | Stand | Akt III | Matthew | Erste Ruhe nach dem Wendepunkt. |
-| 20 | Schweigen | Akt III | Patrick | Patrick schließt mit Ronan ab. Eingebettete letzte Caldermoor-Rückblende (verschmolzen mit ehem. „Danach"): der Moment direkt nach der Rettung aus Kap. 14, Patrick noch benommen, registriert eine banale Sinneswahrnehmung (Geruch/Berührung/Geräusch), die zu seinem nie erklärten Trigger wird — Fokus auf die körperliche Nachwirkung, nicht das Ereignis selbst. |
-| 21 | Zusage | Akt III | Liam | Vorbereitung der Hochzeit aus Liams Warte. |
-| 22 | Bund | Akt III | Liam | Die Hochzeit auf Ravenscroft, klein und privat. |
-| 23 | Anker | Epilog | Liam | Liams stiller Abschluss, Echo zum Prolog. |
+| Nr | Titel | Akt | POV | Status | Kurzinhalt |
+|---|---|---|---|---|---|
+| 00 | Hohlraum | Prolog | Marre | ✓ Prosa fertig | Der Ausstieg ist ins Leere gelaufen. |
+| 01 | Nachglühen | Akt I | Matthew | ✓ Prosa fertig | Neue Normalität, noch ungewohnt — Matthew traut der Stille nicht. |
+| 02 | Vorabend | Akt I | Patrick | offen | Gegenwart: Abendessen mit Matthew und Liam auf Ravenscroft, Patrick erkennt beiläufig ein Datum (Jahrestag), Liam bemerkt die minimale Verschiebung, ohne sie einzuordnen. Eingebettete 1. Caldermoor-Rückblende: der Abend zuvor, mit Ronan — atmosphärisch, letzter ungetrübter Blick auf ihn. |
+| 03 | Abstand | Akt I | Liam | offen | Liam versucht, die minimale Verschiebung bei Patrick aus Kap. 02 einzuordnen — ohne zu wissen, was er gesehen hat. |
+| 04 | Archiv | Akt I | Marre | offen | Suche nach Caldermoor beginnt konkret. |
+| 05 | Tagesform | Akt I | Matthew | offen | Ein Riss in der Routine, noch nicht eingeordnet. |
+| 06 | Untiefe | Akt I | Patrick | offen | Ronans Unterlagen, Hinweis auf unbekanntes Gespräch mit Vera. Übergang Akt II. |
+| 07 | Lücke | Akt II | Matthew | offen | Jeffrey und Michael bauen die juristische Struktur. |
+| 08 | Vorstoß | Akt II | Patrick | offen | Patrick sucht aktiv das Gespräch mit Vera. |
+| 09 | Nachlass | Akt II | Vera | offen | Was sie über Ronans letzte Monate weiß. |
+| 10 | Spur | Akt II | Marre | offen | Die Archiv-Suche führt auf Michael Reyes' Namen. |
+| 11 | Altlast | Akt II | Michael | offen | Gewarnt von Jeffrey — seine Vergangenheit wird zur Gefahr. |
+| 12 | Riss | Akt II | Patrick | offen | 1. eigenständige Caldermoor-Rückblende. Patrick und Matthew zusammen auf dem Gelände; die Entführer zielen gezielt auf Patrick (zu dem Zeitpunkt der erkennbare Name, Matthew noch nicht öffentlich bekannt) und drängen Matthew beiseite. Matthew kommt zu sich, Patrick ist fort — erster, privater Ausbruch des Dämons, nie erzählt. Kapitelende bei Patrick, isoliert, fragmentierte Wahrnehmung. |
+| 13 | Wache | Akt II | Liam | offen | Steigende Anspannung, registriert Matthews Zustand. |
+| 14 | Einschlag | Akt II | Patrick | offen | 2. eigenständige Caldermoor-Rückblende, dichter. Patrick in Gefangenschaft, Angst und erste Verletzung; Michael taucht als unklare Randfigur auf (Seitenwechsel). Matthew bricht im vollen Modus durch, mit Zeugen — Patricks fragmentierte Wahrnehmung der Rettung. Kein sauberer Abschluss, Zustand danach leitet direkt in Kap. 15 über. Matthews genaues Handeln an den Entführern bewusst nicht ausbuchstabiert. |
+| 15 | Überschreitung | Akt II | Matthew | offen | Wendepunkt — Matthew geht bis zum Äußersten. |
+| 16 | Halt | Akt II | Liam | offen | Liam hält ihn zurück. Patrick weiß es. Jeffrey schließt die Falle. |
+| 17 | Fall | Akt III | Marre | offen | Marre fällt — still, juristisch, unausweichlich. |
+| 18 | Nachspiel | Akt III | Michael | offen | Sein Anteil an Marres Fall — Abschluss seines eigenen Bogens. |
+| 19 | Stand | Akt III | Matthew | offen | Erste Ruhe nach dem Wendepunkt. |
+| 20 | Schweigen | Akt III | Patrick | offen | Patrick schließt mit Ronan ab. Eingebettete letzte Caldermoor-Rückblende (verschmolzen mit ehem. „Danach"): der Moment direkt nach der Rettung aus Kap. 14, Patrick noch benommen, registriert eine banale Sinneswahrnehmung (Geruch/Berührung/Geräusch), die zu seinem nie erklärten Trigger wird — Fokus auf die körperliche Nachwirkung, nicht das Ereignis selbst. |
+| 21 | Zusage | Akt III | Liam | offen | Vorbereitung der Hochzeit aus Liams Warte. |
+| 22 | Bund | Akt III | Liam | offen | Die Hochzeit auf Ravenscroft, klein und privat. |
+| 23 | Anker | Epilog | Liam | offen | Liams stiller Abschluss, Echo zum Prolog. |
 
 ---
 
 ## Offen (nächste Schritte)
 
-Keine offenen Kernfragen mehr. Alle vier Caldermoor-Rückblenden (Kap. 02, 12, 14, 20) sind inhaltlich ausgearbeitet. Nächster sinnvoller Schritt: Übergang in die Prosaarbeit, beginnend z. B. mit Kapitel 00 oder 02.
+Keine offenen Kernfragen mehr zur Struktur. Kapitel 00 und 01 sind als Prosa fertig. Nächster sinnvoller Schritt: **Kapitel 02, „Vorabend"** (Patrick-POV) — Inhalt ist oben bereits skizziert.
 
 ## Korrekturhinweis für andere Projektdateien
 
