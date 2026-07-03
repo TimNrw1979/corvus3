@@ -101,10 +101,18 @@ Beide Marker stehen als eigene Zeile im Fließtext, ohne Überschrift davor oder
 
 ## 5. Perspektivstruktur
 
-- **Kein expliziter POV-Header** – der Perspektivwechsel ergibt sich aus der Erzählhaltung und dem fokussierten Bewusstsein
+- Kein expliziter POV-Header – der Perspektivwechsel ergibt sich aus der Erzählhaltung und dem fokussierten Bewusstsein
 - Die Perspektive folgt immer einer Figur vollständig bis zum nächsten `!!TRENNUNG_SZENE!!` oder `!!TRENNUNG_ABSCHNITT!!`
-- Rückblenden oder Zeitsprünge werden innerhalb des Fließtexts angekündigt (nicht per Header), z. B.:
+- Rückblenden oder Zeitsprünge werden allgemein innerhalb des Fließtexts angekündigt (nicht per Header), z. B.:
   > *Der Zeitsprung kam ohne Ankündigung – so wie morgens alles kam auf Ravenscroft, bevor der Tag eine Form angenommen hatte.*
+  
+  Ausnahme: Caldermoor-Rückblenden in Band 3 folgen der spezifischeren Konvention unter 5a.
+
+### 5a. Rückblenden-Konvention — Caldermoor (Band 3)
+
+- **Eingang:** Sensorischer Auslöser in der Gegenwartsszene (kein Erklärsatz, kein „er erinnerte sich"). Harter Schnitt via `!!TRENNUNG_ABSCHNITT!!`. Tempuswechsel Präsens → Präteritum als alleiniges grammatisches Signal der Zeitebene.
+- **Ausgang:** Kein zweiter Trigger. Die Rückblende endet bewusst unabgeschlossen (mitten in einer Geste, einem Satz, einer Bewegung). `!!TRENNUNG_ABSCHNITT!!`, zurück in Präsens, direkt bei der Gegenwarts-Beobachtung (in Kap. 02: Liams Wahrnehmung der minimalen Verschiebung). Die Unvollständigkeit erzeugt den Nachhall, ohne dass er explizit benannt wird.
+- **Figureneinführung in Rückblenden:** Figuren, die dem Leser aus der Gegenwart bereits vertraut sind oder die (wie Ronan) nur über Erwähnung bekannt sind, werden in Rückblenden nicht extern eingeführt. Sie erscheinen unmittelbar in Handlung/Dialog. Erlaubt sind punktuelle, sparsame Gedankenanker aus der POV-Figur heraus („typisch er"), die Vertrautheit zeigen statt Fakten liefern.
 
 ---
 
