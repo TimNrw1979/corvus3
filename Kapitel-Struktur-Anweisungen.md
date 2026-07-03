@@ -71,7 +71,7 @@ Direkt unter der H1, ein einzelner Satz oder kurzer Ausdruck im Pandoc-Custom-St
 :::
 ```
 
-- Der Satz stammt inhaltlich aus dem Kapitel selbst (wörtlich oder sinngemäß)
+- Der Satz ist ein wörtliches Zitat aus dem Kapitel selbst — kein frei formulierter, nur sinngemäßer Ersatz.
 - Keine Quellenangabe, keine Anführungszeichen
 - Er fungiert als emotionaler oder thematischer Verdichter des Kapitels
 
