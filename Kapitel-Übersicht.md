@@ -105,6 +105,10 @@ Präsens: Abendessen mit Patrick, Matthew und Liam auf Ravenscroft. Patrick erke
 
 Liam trägt Kap. „Zusage", „Bund" und den Epilog „Anker" final, nicht nur als Tendenz. Begründung: Er ist strukturell bereits als Beobachter von der Seite positioniert („nicht formaler Teil der Ehe, aber unverzichtbar", Planungsstand.md), der Rahmen zum Prolog (Marre) braucht ihn als etablierten POV vor dem Epilog-Wechsel, und die Rolle knüpft direkt an sein Band-2-Motiv an („ein zweiter Anker, leiser als der erste").
 
+## Geklärt: Patrick erzählt Liam von Caldermoor (Kap. 21)
+
+Vor der Hochzeit löst Patrick bewusst das letzte offene Geheimnis zwischen den dreien auf. Liam erfährt, dass es Caldermoor gab und was es für Patrick bedeutet hat — nicht die vollständigen Details. Konsistent mit der Fragmentierungs-Konvention der Rückblenden: Auch Liam, der Vertrauteste, bekommt kein vollständiges Bild. Funktion: emotionaler Abschluss vor dem Bund, keine expositorische Aufklärungsszene.
+
 ---
 
 ## Kapitelliste
@@ -132,7 +136,7 @@ Liam trägt Kap. „Zusage", „Bund" und den Epilog „Anker" final, nicht nur 
 | 18 | Nachspiel | Akt III | Michael | offen | Sein Anteil an Marres Fall — Abschluss seines eigenen Bogens. |
 | 19 | Stand | Akt III | Matthew | offen | Erste Ruhe nach dem Wendepunkt. |
 | 20 | Schweigen | Akt III | Patrick | offen | Patrick schließt mit Ronan ab. Eingebettete letzte Caldermoor-Rückblende (verschmolzen mit ehem. „Danach"): der Moment direkt nach der Rettung aus Kap. 14, Patrick noch benommen, registriert eine banale Sinneswahrnehmung (Geruch/Berührung/Geräusch), die zu seinem nie erklärten Trigger wird — Fokus auf die körperliche Nachwirkung, nicht das Ereignis selbst. |
-| 21 | Zusage | Akt III | Liam | offen | Vorbereitung der Hochzeit aus Liams Warte. |
+| 21 | Zusage | Akt III | Liam | offen | Vorbereitung der Hochzeit aus Liams Warte. Patrick erzählt ihm von Caldermoor — das letzte große Geheimnis zwischen den dreien, bewusst aufgelöst, bevor sie heiraten. Der Akt des Erzählens steht im Fokus, nicht der Inhalt selbst (der Leser kennt ihn bereits); Liam erfährt nie das vollständige Bild — auch das bleibt fragmentiert. |
 | 22 | Bund | Akt III | Liam | offen | Die Hochzeit auf Ravenscroft, klein und privat. |
 | 23 | Anker | Epilog | Liam | offen | Liams stiller Abschluss, Echo zum Prolog. |
 

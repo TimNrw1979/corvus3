@@ -113,6 +113,7 @@ Beide Marker stehen als eigene Zeile im Fließtext, ohne Überschrift davor oder
 - **Eingang:** Sensorischer Auslöser in der Gegenwartsszene (kein Erklärsatz, kein „er erinnerte sich"). Harter Schnitt via `!!TRENNUNG_ABSCHNITT!!`. Tempuswechsel Präsens → Präteritum als alleiniges grammatisches Signal der Zeitebene.
 - **Ausgang:** Kein zweiter Trigger. Die Rückblende endet bewusst unabgeschlossen (mitten in einer Geste, einem Satz, einer Bewegung). `!!TRENNUNG_ABSCHNITT!!`, zurück in Präsens, direkt bei der Gegenwarts-Beobachtung (in Kap. 02: Liams Wahrnehmung der minimalen Verschiebung). Die Unvollständigkeit erzeugt den Nachhall, ohne dass er explizit benannt wird.
 - **Figureneinführung in Rückblenden:** Figuren, die dem Leser aus der Gegenwart bereits vertraut sind oder die (wie Ronan) nur über Erwähnung bekannt sind, werden in Rückblenden nicht extern eingeführt. Sie erscheinen unmittelbar in Handlung/Dialog. Erlaubt sind punktuelle, sparsame Gedankenanker aus der POV-Figur heraus („typisch er"), die Vertrautheit zeigen statt Fakten liefern.
+- Der Trigger-Zeitpunkt einer Rückblende ist POV-abhängig und muss nicht mit dem objektiven Ereignisdatum übereinstimmen – er markiert, was für die jeweilige Figur den Bruch markiert (z. B. Patrick: der Tag davor: der 19.; Matthew potenziell: der Tag des Ereignisses selbst: der 20.).
 
 ---
 
