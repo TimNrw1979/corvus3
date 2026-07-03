@@ -84,3 +84,10 @@ Hauptantagonist der Reihe. Kultiviert, international, schwer einzuordnen. Patric
 - **Band 1:** Im Epilog ahnungslos. Hält Matthew für einen Geschäftsmann.
 - **Band 2:** Sein Netzwerk wird sichtbar. Er fällt noch nicht. Sein Weg zu Matthew führt über den Caldermoor-Vorfall — ein Zeitungsarchiv, das er findet, weil es auffindbar bleiben sollte.
 - **Band 3:** Abschluss reserviert.
+
+**Kernmotivation Band 3:** Zwei Antriebe, kein reines Macht-/Geldstreben:
+
+1. *Kontrolle durch Verstehen* — Matthew/der Dämon ist die einzige Anomalie, die sich Marres lebenslanger Fähigkeit entzieht, jeden Raum und jede Person zu lesen. Caldermoor ist für ihn der (in Wahrheit falsche) Schlüssel, dieses Rätsel zu lösen.
+2. *Alte Verpflichtungen* — über Jahre hat Marre Personen/Gruppen illegal mit Informationen und Material aus dem Celvaris-Umfeld versorgt, im Austausch für Schutz und Rückhalt. Gut genug abgesichert, um kaum direkt zu ihm zurückverfolgbar zu sein — aber die Verpflichtungen bestehen nach seinem Ausstieg weiter, ohne dass er noch Zugang zu neuem Material hat. Caldermoor ist auch der Versuch, neue „Währung" zu finden, bevor alte Kontakte ungeduldig werden.
+
+Beide Antriebe zusammen ergeben den Hebel für Matthew, Patrick und Liam am Ende: nicht nur saubere juristische Verurteilung ist denkbar, sondern auch die Offenlegung von Marres Identität gegenüber seinen eigenen Auftraggebern — eine Eskalationsstufe, die absichtlich außerhalb des sauberen Rechts liegt.
