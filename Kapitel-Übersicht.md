@@ -117,7 +117,7 @@ Vor der Hochzeit löst Patrick bewusst das letzte offene Geheimnis zwischen den 
 |---|---|---|---|---|---|
 | 00 | Hohlraum | Prolog | Marre | ✓ Prosa fertig | Der Ausstieg ist ins Leere gelaufen. |
 | 01 | Nachglühen | Akt I | Matthew | ✓ Prosa fertig | Neue Normalität, noch ungewohnt — Matthew traut der Stille nicht. |
-| 02 | Vorabend | Akt I | Patrick | offen | Gegenwart: Abendessen mit Matthew und Liam auf Ravenscroft, Patrick erkennt beiläufig ein Datum (Jahrestag), Liam bemerkt die minimale Verschiebung, ohne sie einzuordnen. Eingebettete 1. Caldermoor-Rückblende: der Abend zuvor, mit Ronan — atmosphärisch, letzter ungetrübter Blick auf ihn. |
+| 02 | Vorabend | Akt I | Patrick | ✓ Prosa fertig | Gegenwart: Abendessen mit Matthew und Liam auf Ravenscroft, Patrick erkennt beiläufig ein Datum (Jahrestag), Liam bemerkt die minimale Verschiebung, ohne sie einzuordnen. Eingebettete 1. Caldermoor-Rückblende: der Abend zuvor, mit Ronan — atmosphärisch, letzter ungetrübter Blick auf ihn. |
 | 03 | Abstand | Akt I | Liam | offen | Liam versucht, die minimale Verschiebung bei Patrick aus Kap. 02 einzuordnen — ohne zu wissen, was er gesehen hat. |
 | 04 | Archiv | Akt I | Marre | offen | Suche nach Caldermoor beginnt konkret. |
 | 05 | Tagesform | Akt I | Matthew | offen | Ein Riss in der Routine, noch nicht eingeordnet. |
