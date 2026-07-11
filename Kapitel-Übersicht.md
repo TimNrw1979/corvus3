@@ -121,7 +121,7 @@ Vor der Hochzeit löst Patrick bewusst das letzte offene Geheimnis zwischen den 
 | 03 | Abstand | Akt I | Liam | ✓ Prosa fertig | Liam versucht, die minimale Verschiebung bei Patrick aus Kap. 02 einzuordnen — ohne zu wissen, was er gesehen hat. |
 | 04 | Archiv | Akt I | Marre | ✓ Prosa fertig | Suche nach Caldermoor beginnt konkret. |
 | 05 | Tagesform | Akt I | Matthew | ✓ Prosa fertig | Ein Riss in der Routine, noch nicht eingeordnet. |
-| 06 | Untiefe | Akt I | Patrick | offen | Ronans Unterlagen, Hinweis auf unbekanntes Gespräch mit Vera. Übergang Akt II. |
+| 06 | Untiefe | Akt I | Patrick | ✓ Prosa fertig | Ronans Unterlagen, Hinweis auf unbekanntes Gespräch mit Vera. Übergang Akt II. |
 | 07 | Lücke | Akt II | Matthew | offen | Jeffrey und Michael bauen die juristische Struktur. |
 | 08 | Vorstoß | Akt II | Patrick | offen | Patrick sucht aktiv das Gespräch mit Vera. |
 | 09 | Nachlass | Akt II | Vera | offen | Was sie über Ronans letzte Monate weiß. |
