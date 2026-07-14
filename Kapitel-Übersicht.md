@@ -122,7 +122,7 @@ Vor der Hochzeit löst Patrick bewusst das letzte offene Geheimnis zwischen den 
 | 04 | Archiv | Akt I | Marre | ✓ Prosa fertig | Suche nach Caldermoor beginnt konkret. |
 | 05 | Tagesform | Akt I | Matthew | ✓ Prosa fertig | Ein Riss in der Routine, noch nicht eingeordnet. |
 | 06 | Untiefe | Akt I | Patrick | ✓ Prosa fertig | Ronans Unterlagen, Hinweis auf unbekanntes Gespräch mit Vera. Übergang Akt II. |
-| 07 | Lücke | Akt II | Matthew | offen | Jeffrey und Michael bauen die juristische Struktur. |
+| 07 | Lücke | Akt II | Matthew | ✓ Prosa fertig | Jeffrey und Michael bauen die juristische Struktur. |
 | 08 | Vorstoß | Akt II | Patrick | offen | Patrick sucht aktiv das Gespräch mit Vera. |
 | 09 | Nachlass | Akt II | Vera | offen | Was sie über Ronans letzte Monate weiß. |
 | 10 | Spur | Akt II | Marre | offen | Die Archiv-Suche führt auf Michael Reyes' Namen. |
