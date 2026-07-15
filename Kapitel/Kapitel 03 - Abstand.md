@@ -46,6 +46,30 @@ Es blieb: nichts, das er benennen konnte. Nur die Tasse. Nur die Sekunde, in der
 
 !!TRENNUNG_SZENE!!
 
+Er ließ die Tasse in der Küche stehen und ging seine Runde – nicht weil es nötig war, sondern weil es das war, was er tat, wenn ein Gedanke sich nicht einordnen ließ. Die Kameras am Osttor. Der Sensor an der Poolhaustür, der seit Wochen eine Millisekunde zu spät auslöste und den er sich vorgenommen hatte, austauschen zu lassen, und dann doch nie ausgetauscht hatte. Der Zaun entlang der Straße, den er im Kopf abging, ohne hinzusehen, weil er ihn so oft abgegangen war, dass die Augen es nicht mehr brauchten.
+
+Am Kontrollterminal im Nebengebäude traf er Dana, die die Nachtschicht ablöste, den Blick schon auf die Monitore gerichtet.
+
+„Ruhig?", fragte er.
+
+„Ruhig." Sie tippte etwas weg. „Ein Fuchs am Zaun um zwei. Sonst nichts."
+
+Er nickte, sah selbst kurz auf die Reihen der Feeds – die Auffahrt, das Tor, den See, alles genau da, wo es sein sollte. Nichts, das erklärte, warum eine Tasse zweimal ausgerichtet wurde.
+
+„Irgendwas Ungewöhnliches in den letzten Tagen? Anrufe, Besucher, irgendwas, das Patrick betrifft?"
+
+Dana sah zu ihm hoch, kurz überrascht von der Frage, mehr noch von der Beiläufigkeit, mit der sie kam. „Nein. Warum?"
+
+„Nur Routine." Er sagte es, wie er solche Sätze immer sagte – glatt, ohne dass jemand nachfragte.
+
+Sie fragte nicht nach. Das war einer der Vorteile daran, mit Leuten zu arbeiten, die er selbst ausgesucht hatte.
+
+Er blieb noch einen Moment stehen, sah auf die Monitore, auf denen nichts geschah, das nicht schon geschehen war, seit Wochen, seit Monaten – und genau das war das Problem. Wenn die Antwort hier gewesen wäre, hätte er sie längst gefunden. Sie war es nicht.
+
+Er ging zurück zum Haupthaus, langsamer als nötig, und dachte an eine Tasse, die zweimal ausgerichtet worden war, ohne Grund.
+
+!!TRENNUNG_SZENE!!
+
 Matthew fand ihn später auf der Terrasse, die Kaffeetasse noch halbvoll, den Blick auf den Garten gerichtet, ohne ihn zu sehen.
 
 „Du stehst komisch", sagte Matthew.
